@@ -1,7 +1,9 @@
 # Ecommerce-Sales-Analysis
 📌 Objective: To create an insightful Power BI dashboard that analyses ecommerce sales data and provides real-time insights to stakeholders.
+
 📌 Goals: Monitor KPIs: ** Keep track of key performance indicators and trends in ecommerce sales. 
 Enable Informed Decisions: Provide stakeholders with real-time data to support better decision-making.
+
 📌 Key Findings: 
 Total Revenue and Profit: Generated $22,97,201 million in revenue and $2,86,397 million in profit. 
 Category Wise insights: The technology area generated a $150K profit.
