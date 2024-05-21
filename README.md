@@ -1,5 +1,5 @@
 # Ecommerce-Sales-Analysis
-📌 Objective: To create an insightful Power BI dashboard that analyses ecommerce sales data and provides real-time insights to stakeholders.
+📌 Objective: To create an insightful Excel dashboard that analyses ecommerce sales data and provides real-time insights to stakeholders.
 
 📌 Goals: Monitor KPIs: ** Keep track of key performance indicators and trends in ecommerce sales. 
     Enable Informed Decisions: Provide stakeholders with real-time data to support better decision-making.
